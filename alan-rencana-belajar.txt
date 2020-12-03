@@ -1,4 +1,6 @@
 Rencana Belajar Alan
 - Belajar Javascript
+  * Basic Javascript
+  * Framework Javascript
 - Belajar PHP
 - Belajar CI
