@@ -1,0 +1,4 @@
+Rencana Belajar Alan
+- Belajar Javascript
+- Belajar PHP
+- Belajar CI
