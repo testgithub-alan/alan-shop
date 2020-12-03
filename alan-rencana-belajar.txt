@@ -2,10 +2,12 @@ Rencana Belajar Alan
 - Belajar Javascript
   * Basic Javascript
   * Framework Javascript
-    ^ Vue
+    ^ Angular
     ^ React
+    ^ Vue
+- Belajar PHP
+  ^ Laravel
   * Belajar Struktur Data
 - Belajar PHP
   ^ OOP
-- Belajar CI
-- Belajar Laravel
+  ^ CI
